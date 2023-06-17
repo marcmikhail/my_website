@@ -1,4 +1,4 @@
-baseURL: http://marc-mikhail-website.app/
+baseURL: https://marc-mikhail-website.app/
 languageCode: en-us
 title: Portfolio Website for Marc Mikhail
 theme: forty
@@ -81,10 +81,10 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: lbs.jpg
         subtitle: Check out my life
         title: Marc's Website
-        url: blogs/aliquam
+        url: blogs/risk_return
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
