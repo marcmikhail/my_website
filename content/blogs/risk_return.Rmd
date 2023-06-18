@@ -190,6 +190,7 @@ by_year_monthly %>%
 
 knitr::include_graphics("/img/pic1.jpg",error=FALSE)
 
+brexit_results <- read_csv(here::here("data","brexit_results.csv"))
 ```
 
 
